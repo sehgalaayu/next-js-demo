@@ -11,11 +11,11 @@ export default function Signin() {
               <div className="text-3xl font-extrabold">Sign in</div>
             </div>
             <div className="pt-2">
-              <LabelledInput label="Username" placeholder="aayu@gmail.com" />
+              <LabelledInput label="Username" placeholder="name@gmail.com" />
               <LabelledInput
                 label="Password"
                 type={"password"}
-                placeholder="anjsa@93042"
+                placeholder="svdsk$#@1"
               />
               <button
                 type="button"
